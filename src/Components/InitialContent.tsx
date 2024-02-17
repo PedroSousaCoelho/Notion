@@ -1,0 +1,13 @@
+export const initialContent = 
+`
+<h1>The Delectable Yet Dangerous Charms of Candy Apples</h1>
+<p><strong>Introduction:</strong> Candy apples, also known as love apples, have been a delightful treat at fairs and carnivals for generations. With their glossy, sweet exteriors, these tempting fruits may seem harmless, but beneath their sugary allure lies a potential danger. In this article, we explore the dual nature of candy apples, examining both their delectable taste and the cautionary aspects associated with indulging in this treat.</p>
+<p><strong>Section 1: The Allure of Candy Apples</strong> - Candy apples are a whimsical confection, capturing the hearts of both young and old. Their vibrant colors and glossy coatings make them a visual delight, invoking a sense of nostalgia for festive occasions. The initial bite into the crisp apple, followed by the burst of sugary sweetness, is an experience that brings joy and indulgence.</p>
+<p><strong>Section 2: The Temptation of Danger</strong> - While candy apples are undeniably delicious, it's essential to acknowledge the potential risks associated with consuming them. The hard candy coating can be challenging to bite into, posing a risk of dental damage, especially for those with sensitive teeth. Additionally, the sticky nature of the coating can be a challenge for braces wearers or individuals with dental work.</p>
+<p><strong>Section 3: Hidden Perils: Handling the Stick</strong> - The wooden or plastic stick embedded in candy apples is a traditional element, making them easy to hold and consume. However, it is crucial to be cautious while eating, as the stick can present a choking hazard, particularly for young children. Supervision is essential to ensure safe enjoyment.</p>
+<p><strong>Section 4: The Sugar Rush and Health Implications</strong> - Candy apples contribute to the already prevalent issue of excessive sugar consumption in our diets. While indulging in these sweet treats occasionally is generally harmless, regular consumption can lead to health concerns such as tooth decay, weight gain, and an increased risk of metabolic disorders.</p>
+<p><strong>Conclusion: Balancing Delight and Caution</strong> - In conclusion, candy apples are a delightful indulgence that requires a balanced approach. While savoring the delectable taste and enjoying the festive charm, it's crucial to be mindful of the potential dangers associated with their consumption. Moderation, supervision, and awareness are key to ensuring that the enjoyment of candy apples remains a safe and cherished tradition for all.</p>
+
+<pre><code class="language-javascript">console.log('teste123');</code> </pre>
+
+` 
