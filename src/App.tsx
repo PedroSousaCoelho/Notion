@@ -19,8 +19,12 @@ function App() {
       </main>
 
       </div>
+
+        <p className='max-w-[100px] m-h-[200px] text-white mx-auto pt-5 italic '>DevelopedbyPedro</p>
     </div>
     
+    
+
   );
 }
 
